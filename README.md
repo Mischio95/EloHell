@@ -5,7 +5,7 @@ TECH PARTNER:  bitdrome
 La sfida era basata sullo sviluppo di una demo di un gioco mobile con il tema di un gioco che prendesse in giro il mondo dei videogiochi. L'engine scelto è stato Unity, che utilizza il C#. Inoltre, insieme ad altri due colleghi, abbiamo avuto l'opportunità, in quanto selezionati per la finale, di partecipare e presentare il nostro progetto alla Milan Games Week.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mischio95/EloHell/main/Assets/AppIcon.png" alt="Descrizione dell'immagine" width="640" />
+  <img src="https://raw.githubusercontent.com/Mischio95/EloHell/main/Assets/AppIcon.png" alt="Descrizione dell'immagine" width="400" />
 </p>
 
 ## EloHell 
