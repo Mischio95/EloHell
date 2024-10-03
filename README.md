@@ -15,6 +15,6 @@ Gioco Platform 2D Sviluppato in Unity
 Vesti i panni di Dante, un Toxic Player trascinato nell’ Elo hell, dimora di tutti i più spaventosi giocatori in circolazione!
 Supera tutti i gironi ed esplora i segreti nascosti all’interno dell’inferno, interagisci con i dannati e trova un modo per riuscire a riveder le stelle!
 
-###Che il vostro viaggio di redenzione abbia inizio!
+#Che il vostro viaggio di redenzione abbia inizio!
 
 
